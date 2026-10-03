@@ -10,6 +10,8 @@ version: 1.0.0
 date-released: 2026-09-01
 license: Apache-2.0
 repository-code: "https://github.com/SR123/term-coding-dispersion-lean"
+url: "https://github.com/SR123/term-coding-dispersion-lean/releases/tag/v1.0.0"
+doi: 10.5281/zenodo.22228344
 keywords:
   - Lean 4
   - Mathlib
