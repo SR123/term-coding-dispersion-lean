@@ -2,9 +2,13 @@
 
 This repository contains a Lean 4 formalisation of the mathematical content
 of the corrected Paper 2 manuscript, built on top of the released Paper 1
-development (`TermCoding`, reused verbatim).  This is the release
-candidate for the public repository accompanying the paper; the archival
-DOI is minted via Zenodo on the first GitHub release.
+development (`TermCoding`, reused verbatim). Software version
+[v1.0.0](https://github.com/SR123/term-coding-dispersion-lean/releases/tag/v1.0.0)
+was published on 1 September 2026 and is archived on Zenodo with the
+release-specific DOI
+[10.5281/zenodo.22228344](https://zenodo.org/records/22228344).
+The concept DOI [10.5281/zenodo.22228343](https://doi.org/10.5281/zenodo.22228343)
+covers all versions of this software.
 
 * Lean `4.26.0`, Mathlib `v4.26.0` (commit `2df2f0150c275ad53cb3c90f7c98ec15a56a1a67`),
   pinned in `lean-toolchain` / `lake-manifest.json` (unchanged from Paper 1).
